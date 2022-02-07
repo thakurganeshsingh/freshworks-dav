@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Welcome",
+      "uri": "docs/Home.md"
+    },
+    {
+      "type": "divider",
+      "title": "background"
+    },
+    {
+      "type": "item",
+      "title": "About",
+      "uri": "docs/background/About.md"
+    },
+    {
+      "type": "item",
+      "title": "Javascript Async Functions",
+      "uri": "docs/background/JS-async-functions.md"
+    },
+    {
+      "type": "item",
+      "title": "Introduction to JavaScript",
+      "uri": "docs/background/JS-introduction.md"
+    },
+    {
+      "type": "divider",
+      "title": "related-articles"
+    },
+    {
+      "type": "item",
+      "title": "Assignment case study",
+      "uri": "docs/related-articles/case-study.md"
+    },
+    {
+      "type": "item",
+      "title": "Solutioning Thought Process",
+      "uri": "docs/related-articles/thought-process.md"
+    },
+    {
+      "type": "divider",
+      "title": "releases"
+    },
+    {
+      "type": "item",
+      "title": "Frequently Asked Questions",
+      "uri": "docs/releases/FAQ.md"
+    },
+    {
+      "type": "item",
+      "title": "Release notes",
+      "uri": "docs/releases/release-note.md"
+    }  ]
+}
